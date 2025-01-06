@@ -4,9 +4,9 @@ Hi there 👋
 
 **DevOps Engineer | Cybersecurity Specialist | Cloud Enthusiast**
 
-**LinkedIn**: https://www.linkedin.com/in/sangut-viola-8a0583203
-**Gitlab**: https://gitlab.com/violasangut1
-
+**LinkedIn** (https://www.linkedin.com/in/sangut-viola-8a0583203)
+**Gitlab** (https://gitlab.com/violasangut1)
+**Medium** (https://medium.com/@violasangut)
 
 **👩‍💼 About Me**
 
@@ -30,5 +30,6 @@ Monitoring Containerized Applications: Wazuh SIEM for performance and security m
 - DevOps Challenge: 30-day daily upskilling in DevOps tools and workflows.
 - Django Website Deployment: CI/CD with GitLab, Docker, and AWS.
 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="ViolaSangut"&langs_count=5)
+
 **🚀 Let’s Collaborate on DevOps and Security Projects! 🚀**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
