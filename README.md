@@ -33,9 +33,9 @@
 <a href="https://medium.com/@violasangut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@violasangut" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">LANGUAGES AND TOOLS</h3>
 
-<h3 align="left">👨‍💻 Languages</h3>
+<h3 align="left"> Languages</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -57,14 +57,12 @@
   </a>
 </p>
 
-<h3 align="left">🧰 Frameworks and Libraries</h3>
+<h3 align="left"> Frameworks and Libraries</h3>
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
   </a>
@@ -79,7 +77,7 @@
   </a>
 </p>
 
-<h3 align="left">💾 Databases</h3>
+<h3 align="left"> Databases</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
@@ -117,7 +115,7 @@
   </a>
 </p>
 
-<h3 align="left">⚙️ DevOps Tools</h3>
+<h3 align="left">DevOps Tools</h3>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
@@ -140,16 +138,19 @@
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="40" height="40"/>
   </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
 </p>
 
-<h3 align="left">📊 Data Science and Visualization</h3>
+<h3 align="left">Data Science and Visualization</h3>
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>
 </p>
 
-<h3 align="left">🤖 AI/ML</h3>
+<h3 align="left">AI/ML</h3>
 <p align="left">
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
@@ -162,7 +163,7 @@
   </a>
 </p>
 
-<h3 align="left">🔍 Testing and Automation</h3>
+<h3 align="left">Testing and Automation</h3>
 <p align="left">
   <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" width="40" height="40"/>
@@ -172,19 +173,9 @@
   </a>
 </p>
 
-<h3 align="left">🖥️ Software</h3>
-<p align="left">
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-</p>
 
-<h3 align="left">🖥️ Operating Systems</h3>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=violasangut&show_icons=true&locale=en&layout=compact" alt="violasangut" /></p>
 
