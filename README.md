@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIOLA SANGUT</h1>
-<h3 align="center">DevOps and Security-focused professional with expertise in automating workflows, securing applications, and deploying scalable solutions. Skilled in CI/CD, IaC,Cloud,Linux and API security, Passionate about delivering secure/efficient systems learning and collaborating with others </h3>
+<h3 align="center">DevOps and Security-focused professional with expertise in automating workflows, securing applications, and deploying scalable solutions. Skilled in CI/CD,IaC,Cloud,Linux and Networking. Passionate about delivering secure/efficient systems learning and collaborating with others. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=violasangut&label=Profile%20views&color=0e75b6&style=flat" alt="violasangut" /> </p>
 
